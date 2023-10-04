@@ -1,0 +1,17 @@
+#churrascometro{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.class{
+    width: 100%;
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    box-sizing: border-box;
+}
